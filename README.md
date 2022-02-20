@@ -1,5 +1,7 @@
 # Workshop | Desenvolvimento de Back-end Django
 
+Veja mais na <a href="https://agostinhoramos.medium.com/workshop-desenvolvimento-de-back-end-django-parte-1-c42fddfa4054" >plataforma Medium</a>
+
 ### Step 1
 
 ![Alt text](https://github.com/agostinhoramos/django_blog/blob/master/screenshots/p1.png?raw=true "Steps")
