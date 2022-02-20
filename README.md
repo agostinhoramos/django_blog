@@ -17,6 +17,17 @@ python3 manage.py migrate
 
 python3 manage.py runserver
 
+URL: http://127.0.0.1:8000/
+
+## Painel de administração
+
+URL: http://127.0.0.1:8000/admin/
+
+Username: admin
+
+Password: Th1sIsDjango2022
+
+<br/>
 
 ### Step 1
 
