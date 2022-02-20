@@ -4,6 +4,20 @@ Veja mais no <a href="https://agostinhoramos.medium.com/workshop-desenvolvimento
 
 <br/>
 
+## Requirements
+- Python
+- PIP
+- Django
+
+## Start project:
+
+python3 manage.py makemigrations
+
+python3 manage.py migrate
+
+python3 manage.py runserver
+
+
 ### Step 1
 
 ![Alt text](https://github.com/agostinhoramos/django_blog/blob/master/screenshots/p1.png?raw=true "Steps")
